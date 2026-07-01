@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-97,
+				-76
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-76
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "greg idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-94
+			],
+			"anim": "singdown",
+			"fps": 14,
+			"name": "greg down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				-105
+			],
+			"anim": "sing up",
+			"fps": 12,
+			"name": "greg up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				-102
+			],
+			"anim": "singright",
+			"fps": 14,
+			"name": "greg right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-125,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singleft",
+			"indices": [],
+			"name": "greg left"
+		},
+		{
+			"offsets": [
+				-69,
+				-100
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "greg down"
+		},
+		{
+			"offsets": [
+				-103,
+				-87
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "greg left"
+		},
+		{
+			"offsets": [
+				-149,
+				-109
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "greg up"
+		},
+		{
+			"offsets": [
+				-242,
+				-95
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "greg right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-270,
+				-96
+			],
+			"anim": "singLEFT-loop",
+			"fps": 14,
+			"name": "greg left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				-267,
+				-94
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "greg right"
+		},
+		{
+			"offsets": [
+				-259,
+				-96
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "greg sing up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/greg",
+	"position": [
+		-290,
+		0
+	],
+	"healthicon": "greg",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-10,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}
